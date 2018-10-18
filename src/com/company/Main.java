@@ -52,7 +52,8 @@ public class Main {
         System.out.println("\t3 - To modify an item in the list");
         System.out.println("\t4 - To remove an item from the list");
         System.out.println("\t5 - To search an item from the list");
-        System.out.println("\t6 - To quit");
+        System.out.println("\t6 - To process ArrayList");
+        System.out.println("\t7 - To quit");
     }
 
     public static void addItem() {
